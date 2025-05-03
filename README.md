@@ -14,7 +14,7 @@ rentabilidad y sostenibilidad tiene, por eso se divide en los siguientes pasos
      Tienda 1:
      Ventas totales: $1,150,880,400.00
      % del total de ventas: 26.13%
-     ----------------------------------------
+----------------------------------------
      Tienda 2:
      Ventas totales: $1,116,343,500.00
      % del total de ventas: 25.35%
@@ -128,7 +128,7 @@ Con un equivalente al 23.58% con respecto a las demas.
    De acuerdo al analisis el resultado final es.
 
    La tienda avender es la numero 4 por sus ventas bajas, pos su baja rentabilidad. 
-  # Segun el analisis la tienda que debe vender el señor es la tienda numero 4
+   Segun el analisis la tienda que debe vender el señor es la tienda numero 4
    
 
 
