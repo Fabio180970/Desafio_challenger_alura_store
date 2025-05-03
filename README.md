@@ -130,6 +130,8 @@ Con un equivalente al 23.58% con respecto a las demas.
    La tienda avender es la numero 4 por sus ventas bajas, pos su baja rentabilidad. 
    Segun el analisis la tienda que debe vender el señor es la tienda numero 4
    
+8. Instrucciones para Ejecutar el analisis
 
+   Ingresar a Google Colab y ejecutar el archivo correspondiente para poder ejecutar el programas
 
    
